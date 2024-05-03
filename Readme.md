@@ -12,7 +12,7 @@ Click em **Analisar**, e terá os resultados dos gabaritos analisados automatica
 🟥 respostas erradas
 
 Exemplo:\
-![Imagem do Exemplo](https://github.com/ricardocechet/click-render-screen-Target/blob/main/public/doc/exemplo.gif)
+![Imagem do Exemplo](https://github.com/ricardocechet/Confere-gabarito/blob/main/doc/exemplo.gif)
 
 
 ## Executar  
